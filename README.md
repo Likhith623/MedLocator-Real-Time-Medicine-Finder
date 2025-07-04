@@ -1,5 +1,3 @@
-# MedLocator-Real-Time-Medicine-Finder
-
 # 💊 MedLocator: Real-Time Medicine Finder
 
 **MedLocator** is an intelligent, real-time web platform that helps users instantly locate pharmacies with the exact medicine they need—based on location, availability, and urgency.
